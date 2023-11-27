@@ -23,7 +23,7 @@
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
-      <a class="navbar-brand" href="#"><img src="https://www.flaticon.com/svg/static/icons/svg/3280/3280124.svg"width="50px" height="50px"/></a>
+      <a class="navbar-brand" href="#"><img src="https://png2.cleanpng.com/sh/ffd43ca4767b03ebce3603a305a91b6f/L0KzQYm3UsI3N51BfZH0aYP2gLBuTgBqgqtmRd54Z3AwgrFCgfx1gV5ritduLXnvfMb6lQJifJp0hp95aYr9cX7zjBdwNZpyedluLXzyd7E0lvVkfJD3RadqOUPkSbS9VsE1OWE1RqQDN0K1R4i6UcUyQWc3TqgENEO8SIW1kP5o/kisspng-pizza-logo-royalty-free-illustration-pizza-logo-image-logo-vector-5a93a9c6614100.2872277315196266943984.png"width="50px" height="50px"/></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
         aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
